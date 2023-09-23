@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79a47363-3148-4760-b25b-5a421e3ae9b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/com/bookstore/server/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/Biography &amp; Memoir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/Children's Books.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/Cookbooks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/Historical Fiction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/History.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/Love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/Mystery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/Self-Help &amp; Personal Development.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/Social Science.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/banner-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/banner-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/bestsellers/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/bestsellers/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/bestsellers/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/bestsellers/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/fantesy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/fiction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/magnifier-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/images/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/css/main.d1f01582.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/css/main.d1f01582.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/js/787.c4e7f8f9.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/js/787.c4e7f8f9.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/js/main.2a967bbc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/js/main.2a967bbc.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/js/main.2a967bbc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/1.6b7b90a38b3f29f9fe87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/2.c53a1e6d505167e95312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/2.cec515558511218e50f9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/3.63b8c4a0d9c03019cfed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/3.fba0d43fd99265afe7d0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/4.a646cea15e7d81a143e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/6.354336cf897daf9487ee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/66.90fc44b4d44300a18944.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/Biography &amp; Memoir.5f95fca570833d7eb9e5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/Children's Books.b8fa696870fb41867af4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/Cookbooks.1def8b84ac85de7920bc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/Historical Fiction.71a7a6795d8b090208a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/History.6431abb8a9c7da18470d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/Love.d3b814af9bfbde5f26f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/Mystery.a01592c932ba76185db4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/Self-Help &amp; Personal Development.052dcb4f0045db1ff5bb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/Social Science.fbf71538543d3fb08647.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/banner-1.4cd544a04225de294beb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/banner-2.5c2c0451ef5af2e51f38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/banner-3.0841474b48a57c1a8753.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/fantesy.f7525c8cb63fd284c7a4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/fiction.81914c1036c164dd934a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/logo.d0c6cceef2fdc3afcda5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/webapp/static/media/underconstruction.ab0a1588e0f3b763628e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/Biography &amp; Memoir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/Children's Books.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/Cookbooks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/Historical Fiction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/History.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/Love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/Mystery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/Self-Help &amp; Personal Development.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/Social Science.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/banner-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/banner-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/bestsellers/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/bestsellers/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/bestsellers/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/bestsellers/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/fantesy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/fiction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/magnifier-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/CSS/AppCategory.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/CSS/AppFooterCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/CSS/BookItemCarousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/CSS/ErrorPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/CSS/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/CSS/StarRating.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/CSS/UnderConstruction.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppCategory.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppFooter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/BookItemCarousel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ErrorPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/HomeBookSlide.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/NavigationBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/StartRating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UnderConstruction.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/searchbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/Biography &amp; Memoir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/Children's Books.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/Cookbooks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/Historical Fiction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/History.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/Love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/Mystery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/Self-Help &amp; Personal Development.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/Social Science.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/banner-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/banner-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/bestsellers/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/bestsellers/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/bestsellers/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/bestsellers/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/fantesy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/fiction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/magnifier-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/images/underconstruction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/types.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2VRTG9n3xMLzg3cTYaMOMuIgGJm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/web development/CS5244/SaiManojClientServer/Server/src/main/webapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\web development\\CS5244\\SaiManojClientServer\\client\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web development\CS5244\SaiManojClientServer\Server\src\main\webapp" />
+      <recent name="D:\web development\CS5244\SaiManojClientServer\client\src" />
+      <recent name="D:\web development\CS5244\SaiManojClientServer\client\public" />
+      <recent name="D:\web development\CS5244\SaiManojClientServer\client\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web development\CS5244\SaiManojClientServer\client\src\CSS" />
+      <recent name="D:\web development\CS5244\SaiManojClientServer\client\src\components" />
+      <recent name="D:\web development\CS5244\SaiManojClientServer\client\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : Server.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SaiManojBookstoreReact" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="54044f90-f4e2-4038-9230-028b350a0db1" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61590" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : Server.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="Tomcat Server.Tomcat" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79a47363-3148-4760-b25b-5a421e3ae9b4" name="Changes" comment="" />
+      <created>1694797795740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694797795740</updated>
+      <workItem from="1694797796774" duration="2389000" />
+      <workItem from="1694800645086" duration="9267000" />
+      <workItem from="1695214761998" duration="20765000" />
+      <workItem from="1695327585735" duration="32183000" />
+      <workItem from="1695424900317" duration="4086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
